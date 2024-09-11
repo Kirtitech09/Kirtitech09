@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analysis and data science fields.
 - 🌱 I’m currently learning SQL/python/PowerBI/Excel/ 
 - 💞️ I’m Data Analytics enthusiast and an experienced Software Engineer with a keen eye for detail and a knack for transforming complex datasets into valuable insights.
-- 📫 How to reach me ...kirtisrivastava@gmail.com
+- 📫 How to reach me ----   kirtisrivastava@gmail.com
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ... learning technology/general studies
 
